@@ -1,6 +1,6 @@
 # Hey, I'm Evan 👋
 
-**STEM student @ LCCC → University of Toledo** | IT background | Building useful things with Java, Python, and local AI on Apple Silicon.
+**STEM student @ LCCC → University of Toledo** | IT background | Building practical tools with Java, Python, and local AI on Apple Silicon.
 
 ---
 
@@ -19,10 +19,10 @@
 ## 🚀 What I'm Building
 
 ### 🧠 [local-ai-orchestrator](https://github.com/EvanSchakel/local-ai-orchestrator)
-Local-first AI orchestration for Apple Silicon — auto-routes prompts to the best local model (Ollama / LM Studio / MLX) based on task type, memory constraints, and benchmarks. Built specifically for M4 Mac Mini with 16GB unified memory.
+Local-first AI orchestration for Apple Silicon — auto-routes prompts to the best available local model (Ollama / LM Studio / MLX) based on task type, real-time memory pressure, and benchmarks. Built specifically for M4 Mac mini with 16GB unified memory.
 
 ### 🖥️ [macmini-ai-ops](https://github.com/EvanSchakel/macmini-ai-ops)
-Local AI Operations Hub — Ollama model manager, AnythingLLM RAG orchestrator, STEM academic workflow automation, and real-time inference dashboard. Offline-first, privacy-first.
+Local AI Operations Hub — Ollama model lifecycle manager, AnythingLLM RAG orchestrator, STEM academic workflow automation, and real-time inference dashboard. Offline-first, privacy-first.
 
 ---
 
@@ -30,10 +30,10 @@ Local AI Operations Hub — Ollama model manager, AnythingLLM RAG orchestrator, 
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [apexvault](https://github.com/EvanSchakel/apexvault) | Terminal-first personal finance manager | Java, CLI |
-| [deals](https://github.com/EvanSchakel/deals) | CLI tool for scoring used & refurbished Apple tech listings | Python, CLI |
-| [flashstudy](https://github.com/EvanSchakel/flashstudy) | CLI flashcard app for students | Java, CLI |
-| [To-Do-List](https://github.com/EvanSchakel/To-Do-List) | Full-stack To-Do app with Spring Boot REST API | Java, Spring Boot |
+| [apexvault](https://github.com/EvanSchakel/apexvault) | Terminal-first personal finance manager with budgets, transaction logging, and a colorful terminal dashboard | Java, CLI |
+| [deals](https://github.com/EvanSchakel/deals) | CLI tool for scoring used & refurbished Apple hardware listings against retail thresholds and 40+ scam signals | Python, CLI |
+| [flashstudy](https://github.com/EvanSchakel/flashstudy) | Command-line flashcard app with JSON-backed deck persistence | Java, CLI |
+| [To-Do-List](https://github.com/EvanSchakel/To-Do-List) | Spring Boot REST API with validation, JPA persistence, and Swagger docs | Java, Spring Boot |
 
 ---
 
@@ -46,7 +46,8 @@ Local AI Operations Hub — Ollama model manager, AnythingLLM RAG orchestrator, 
 ---
 
 ## 🎯 Currently
-- 📚 Studying: EECS 1510 Java, Physics, Calculus, Chemistry @ LCCC
-- 🎯 Goal: Transfer to University of Toledo — Computer Science
-- 🤖 Obsession: Running capable AI locally on constrained Apple Silicon hardware
-- 🔧 Stack of choice: M4 Mac Mini · Ollama · AnythingLLM · LM Studio
+- 📚 LCCC STEM track — EECS 1510 Java, Physics, Calculus, Chemistry
+- 🎯 Transferring to University of Toledo — Computer Science
+- 🤖 Focused on local AI that runs well under real hardware constraints (M4 Mac mini, 16GB)
+- 🔧 Daily stack: Ollama · AnythingLLM · LM Studio · Syncthing · Tailscale
+- 🌐 Portfolio site coming soon
